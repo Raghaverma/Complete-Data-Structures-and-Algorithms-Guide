@@ -288,6 +288,3 @@ Graphs that allow insertion and deletion of vertices or edges. Used in:
 | Floyd-Warshall             | O(V³)              | O(V²)            | All-pairs shortest paths   | Simple and systematic                     |
 | Topological Sort           | O(V + E)           | O(V)             | DAGs                       | Crucial in dependency resolution problems |
 
----
-
-Let me know which specific algorithm or representation you would like to examine in further depth, including full implementation in C with tracing, dry-run, and complexity breakdown.
